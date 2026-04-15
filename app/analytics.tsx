@@ -9,7 +9,7 @@ export default function Analytics() {
 
   // initialize مرة واحدة فقط
   useEffect(() => {
-    ReactGA.initialize("G-XXXXXXXXX");
+    ReactGA.initialize("G-W6LY85T881");
   }, []);
 
   // track page change
